@@ -1,0 +1,125 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 3,
+    "list": [
+        {
+            "dt": 1600808400,
+            "main": {
+                "temp": 283.83,
+                "feels_like": 281.35,
+                "temp_min": 283.83,
+                "temp_max": 284.05,
+                "pressure": 1008,
+                "sea_level": 1008,
+                "grnd_level": 1006,
+                "humidity": 93,
+                "temp_kf": -0.22
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 71
+            },
+            "wind": {
+                "speed": 3.46,
+                "deg": 230
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2020-09-22 21:00:00"
+        },
+        {
+            "dt": 1600819200,
+            "main": {
+                "temp": 284.17,
+                "feels_like": 281.39,
+                "temp_min": 284.17,
+                "temp_max": 284.32,
+                "pressure": 1008,
+                "sea_level": 1008,
+                "grnd_level": 1006,
+                "humidity": 93,
+                "temp_kf": -0.15
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03n"
+                }
+            ],
+            "clouds": {
+                "all": 45
+            },
+            "wind": {
+                "speed": 4.01,
+                "deg": 218
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2020-09-23 00:00:00"
+        },
+        {
+            "dt": 1600830000,
+            "main": {
+                "temp": 284.95,
+                "feels_like": 281.82,
+                "temp_min": 284.95,
+                "temp_max": 285.04,
+                "pressure": 1007,
+                "sea_level": 1007,
+                "grnd_level": 1005,
+                "humidity": 94,
+                "temp_kf": -0.09
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ],
+            "clouds": {
+                "all": 12
+            },
+            "wind": {
+                "speed": 4.88,
+                "deg": 205
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2020-09-23 03:00:00"
+        }
+    ],
+    "city": {
+        "id": 658225,
+        "name": "Helsinki",
+        "coord": {
+            "lat": 60.1695,
+            "lon": 24.9355
+        },
+        "country": "FI",
+        "population": 0,
+        "timezone": 10800,
+        "sunrise": 1600747505,
+        "sunset": 1600791645
+    }
+}
